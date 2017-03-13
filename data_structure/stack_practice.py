@@ -42,6 +42,10 @@ class Stack(object):
         else:
             print(self.data)
 
+
+stk = Stack()
+stk.pop()
+
 # implementation test
 # uncomment each line to test
 #
