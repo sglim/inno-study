@@ -167,7 +167,7 @@ Leet Code Problem List (easy / medium)
 164. yet
 165. yet
 166. yet
-167. yet
+>167. Two Sum II - Input array is sorted (easy / done)
 168. yet
 169. yet
 170. yet
