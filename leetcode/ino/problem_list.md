@@ -191,7 +191,7 @@ Leet Code Problem List (easy / medium)
 188. yet
 >189. Rotate Array (easy / done)
 >190. Reverse Bits (easy / done)
-191. yet
+>191. Number of 1 bits (easy / done)
 192. yet
 193. yet
 194. yet
