@@ -171,7 +171,7 @@ Leet Code Problem List (easy / medium)
 >168. Excel Sheet Column Title (easy / done)
 >169. Majority Elements (easy / done)
 170. yet
-171. yet
+>171. Excel Sheet Column Number (easy / done)
 172. yet
 173. yet
 174. yet
