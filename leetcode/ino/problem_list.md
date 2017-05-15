@@ -209,7 +209,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 >203. Remove Linked List Elements (easy / done)
 >204. Count Primes (easy / done)
 >205. Isomorphic Strings (easy / done)
-206. yet
+>206. Reverse Linked List (easy / done)
 207. yet
 208. yet
 209. yet
