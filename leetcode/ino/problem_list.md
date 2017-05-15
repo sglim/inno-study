@@ -169,7 +169,7 @@ Leet Code Problem List (easy / medium)
 166. yet
 >167. Two Sum II - Input array is sorted (easy / done)
 >168. Excel Sheet Column Title (easy / done)
-169. yet
+>169. Majority Elements (easy / done)
 170. yet
 171. yet
 172. yet
