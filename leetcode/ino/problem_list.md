@@ -207,8 +207,8 @@ Easy : 140 / Medium : 285 / Hard : 106
 201. yet
 >202. Happy Number (easy / done)
 >203. Remove Linked List Elements (easy / done)
-204. yet
-205. yet
+>204. Count Primes (easy / done)
+>205. Isomorphic Strings (easy / done)
 206. yet
 207. yet
 208. yet
