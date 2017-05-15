@@ -189,7 +189,7 @@ Leet Code Problem List (easy / medium)
 186. yet
 187. yet
 188. yet
-189. yet
+>189. Rotate Array (easy / done)
 190. yet
 191. yet
 192. yet
@@ -201,7 +201,78 @@ Leet Code Problem List (easy / medium)
 198. yet
 199. yet
 200. yet
+201. yet
+202. yet
+203. yet
+204. yet
+205. yet
+206. yet
+207. yet
+208. yet
+209. yet
+210. yet
+211. yet
+212. yet
+213. yet
+214. yet
+215. yet
+216. yet
+217. yet
+218. yet
+219. yet
+220. yet
+221. yet
+222. yet
+223. yet
+224. yet
+225. yet
+226. yet
+227. yet
+228. yet
+229. yet
+230. yet
+231. yet
+232. yet
+233. yet
+234. yet
+235. yet
+236. yet
+237. yet
+238. yet
+239. yet
+240. yet
 
+300. yet
+301. yet
+302. yet
+303. yet
+304. yet
+305. yet
+306. yet
+307. yet
+308. yet
+309. yet
+400. yet
+401. yet
+402. yet
+403. yet
+404. yet
+405. yet
+406. yet
+407. yet
+408. yet
+409. yet
+500. yet
+50
+50
+50
+50
+50
+50
+50
+50
+50
+51
 
 ~576
 
