@@ -1,6 +1,9 @@
 Leet Code Problem List (easy / medium)
 ======================================
 
+Easy : 140 / Medium : 285 / Hard : 106
+--------------------------------------
+
 >1. Two Sum (easy / done)
 2. yet
 3. yet
@@ -142,7 +145,7 @@ Leet Code Problem List (easy / medium)
 139. yet
 140. yet
 >141. Linked List Cycle (easy / done)
-142.
+142. yet
 143. yet
 144. yet
 145. yet
@@ -202,7 +205,7 @@ Leet Code Problem List (easy / medium)
 199. yet
 200. yet
 201. yet
-202. yet
+>202. Happy Number (easy / done)
 203. yet
 204. yet
 205. yet
