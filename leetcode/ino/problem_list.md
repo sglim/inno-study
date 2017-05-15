@@ -172,7 +172,7 @@ Leet Code Problem List (easy / medium)
 >169. Majority Elements (easy / done)
 170. yet
 >171. Excel Sheet Column Number (easy / done)
-172. yet
+>172. Factorial Trailing Zeros (easy / done)
 173. yet
 174. yet
 175. yet
