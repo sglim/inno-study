@@ -206,7 +206,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 200. yet
 201. yet
 >202. Happy Number (easy / done)
-203. yet
+>203. Remove Linked List Elements (easy / done)
 204. yet
 205. yet
 206. yet
