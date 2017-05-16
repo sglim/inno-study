@@ -228,7 +228,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 222. yet
 223. yet
 224. yet
-225. yet
+>225. Implement Stack using Queues (easy / done)
 226. yet
 227. yet
 228. yet
