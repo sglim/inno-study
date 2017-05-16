@@ -234,7 +234,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 228. yet
 229. yet
 230. yet
-231. yet
+>231. Power of Two (easy / done)
 232. yet
 233. yet
 234. yet
