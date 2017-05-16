@@ -229,7 +229,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 223. yet
 224. yet
 >225. Implement Stack using Queues (easy / done)
-226. yet
+>226. Invert Binary Tree (easy / done)
 227. yet
 228. yet
 229. yet
