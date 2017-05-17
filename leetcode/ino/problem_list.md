@@ -266,7 +266,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 260. yet
 261. yet
 262. yet
-263. yet
+>263. Ugly Number (easy / done)
 264. yet
 265. yet
 266. yet
