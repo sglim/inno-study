@@ -269,9 +269,9 @@ Easy : 140 / Medium : 285 / Hard : 106
 >263. Ugly Number (easy / done)
 264. yet
 265. yet
-266. yet
+266. ~~Palindrome Permutation (easy / LOCKED)~~
 267. yet
-268. yet
+>268. Missing Number (easy / done)
 269. yet
 270. yet
 271. yet
