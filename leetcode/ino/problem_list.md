@@ -245,7 +245,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 239. yet
 240. yet
 241. yet
-242. yet
+>242. Valid Anagram (easy / done)
 243. yet
 244. yet
 245. yet
