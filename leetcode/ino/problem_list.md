@@ -237,7 +237,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 >231. Power of Two (easy / done)
 >232. Implement Queue using Stacks (easy / done)
 233. yet
-234. yet
+>234. Palindrome Linked List (easy / done)
 235. yet
 236. yet
 237. yet
