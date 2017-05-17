@@ -296,7 +296,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 >290. Word Pattern (easy / done)
 291. yet
 >292. Nim Game (easy / done)
-293. yet
+293. ~~Flip Game (easy / LOCKED)~~
 294. yet
 295. yet
 296. yet
@@ -306,7 +306,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 300. yet
 301. yet
 302. yet
-303. yet
+>303. Range Sum Query Immutable (easy / done)
 304. yet
 305. yet
 306. yet
