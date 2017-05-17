@@ -238,7 +238,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 >232. Implement Queue using Stacks (easy / done)
 233. yet
 >234. Palindrome Linked List (easy / done)
-235. yet
+>235. Lowest Common Ancestor of a Binary Search Tree (easy / done)
 236. yet
 237. yet
 238. yet
