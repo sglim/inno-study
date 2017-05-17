@@ -246,21 +246,21 @@ Easy : 140 / Medium : 285 / Hard : 106
 240. yet
 241. yet
 >242. Valid Anagram (easy / done)
-243. yet
+243. ~~Shortest Word Distance (easy / LOCKED)~~
 244. yet
 245. yet
-246. yet
+246. ~~Strobogrammatic Number (easy / LOCKED)~~
 247. yet
 248. yet
 249. yet
 250. yet
 251. yet
-252. yet
+252. ~~Meeting Rooms (easy / LOCKED)~~
 253. yet
 254. yet
 255. yet
-256. yet
-257. yet
+256. ~~Paint House (easy / LOCKED)~~
+>257. Binary Tree Paths (easy / done)
 258. yet
 259. yet
 260. yet
