@@ -273,15 +273,15 @@ Easy : 140 / Medium : 285 / Hard : 106
 267. yet
 >268. Missing Number (easy / done)
 269. yet
-270. yet
+270. ~~Closest Binary Search Tree Value (easy / LOCKED)~~
 271. yet
 272. yet
 273. yet
 274. yet
 275. yet
-276. yet
+276. ~~Paint Fence (easy / LOCKED)~~
 277. yet
-278. yet
+>278. First Bad Version (easy / done)
 279. yet
 280. yet
 281. yet
