@@ -261,7 +261,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 255. yet
 256. ~~Paint House (easy / LOCKED)~~
 >257. Binary Tree Paths (easy / done)
-258. yet
+>258. Add Digits (easy / done)
 259. yet
 260. yet
 261. yet
