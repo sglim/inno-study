@@ -295,7 +295,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 289. yet
 >290. Word Pattern (easy / done)
 291. yet
-292. yet
+>292. Nim Game (easy / done)
 293. yet
 294. yet
 295. yet
