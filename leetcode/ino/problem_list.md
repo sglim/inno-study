@@ -286,7 +286,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 280. yet
 281. yet
 282. yet
-283. yet
+>283. Move Zeroes (easy / done)
 284. yet
 285. yet
 286. yet
