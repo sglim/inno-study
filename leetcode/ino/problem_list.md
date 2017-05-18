@@ -342,10 +342,10 @@ Easy : 140 / Medium : 285 / Hard : 106
 336. yet
 337. yet
 338. yet
-339. yet
+339. ~~Nested List Weight Sum (easy / LOCKED)~~
 340. yet
 341. yet
-342. yet
+>342. Power of Four (easy / done)
 343. yet
 344. yet
 345. yet
