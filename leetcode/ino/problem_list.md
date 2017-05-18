@@ -329,7 +329,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 323. yet
 324. yet
 325. yet
-326. yet
+>326. Power of Three (easy / done)
 327. yet
 328. yet
 329. yet
