@@ -347,7 +347,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 341. yet
 >342. Power of Four (easy / done)
 343. yet
-344. yet
+>344. Reverse String (easy / done)
 345. yet
 346. yet
 347. yet
@@ -524,10 +524,72 @@ Easy : 140 / Medium : 285 / Hard : 106
 518. yet
 519. yet
 520. yet
-
-~576
-
-
-
+521. yet
+522. yet
+523. yet
+524. yet
+525. yet
+526. yet
+527. yet
+528. yet
+529. yet
+530. yet
+531. yet
+532. yet
+533. yet
+534. yet
+535. yet
+536. yet
+537. yet
+538. yet
+539. yet
+540. yet
+541. yet
+542. yet
+543. yet
+544. yet
+545. yet
+546. yet
+547. yet
+548. yet
+549. yet
+550. yet
+551. yet
+552. yet
+553. yet
+554. yet
+555. yet
+556. yet
+557. yet
+558. yet
+559. yet
+560. yet
+561. yet
+562. yet
+563. yet
+564. yet
+565. yet
+566. yet
+567. yet
+568. yet
+569. yet
+570. yet
+571. yet
+572. yet
+573. yet
+574. yet
+575. yet
+576. yet
+577. yet
+578. yet
+579. yet
+580. yet
+581. yet
+582. yet
+583. yet
+584. yet
+585. yet
+586. yet
+587. yet
 
 
