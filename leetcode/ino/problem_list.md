@@ -362,7 +362,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 356. yet
 357. yet
 358. yet
-359. yet
+359. ~~Logger Rate Limiter (easy / LOCKED)~~
 360. yet
 361. yet
 362. yet
@@ -370,7 +370,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 364. yet
 365. yet
 366. yet
-367. yet
+>367. Valid Perfect Square (easy / done)
 368. yet
 369. yet
 370. yet
