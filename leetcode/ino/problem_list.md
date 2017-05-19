@@ -377,7 +377,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 >371. Sum of Two Integers (easy / done)
 372. yet
 373. yet
-374. yet
+>374. Guess Number Higher or Lower (easy / done)
 375. yet
 376. yet
 377. yet
