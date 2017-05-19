@@ -353,7 +353,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 347. yet
 348. yet
 >349. Intersection of Two Arrays (easy / done)
-350. yet
+>350. Intersection of Two Arrays II (easy / done)
 351. yet
 352. yet
 353. yet
