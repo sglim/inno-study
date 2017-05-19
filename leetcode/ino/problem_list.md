@@ -349,10 +349,10 @@ Easy : 140 / Medium : 285 / Hard : 106
 343. yet
 >344. Reverse String (easy / done)
 >345. Reverse Vowels of a String (easy / done)
-346. yet
+346. ~~Moving Average from Data Stream (easy / LOCKED)~~
 347. yet
 348. yet
-349. yet
+>349. Intersection of Two Arrays (easy / done)
 350. yet
 351. yet
 352. yet
