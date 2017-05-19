@@ -348,7 +348,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 >342. Power of Four (easy / done)
 343. yet
 >344. Reverse String (easy / done)
-345. yet
+>345. Reverse Vowels of a String (easy / done)
 346. yet
 347. yet
 348. yet
