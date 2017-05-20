@@ -386,7 +386,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 380. yet
 381. yet
 382. yet
-383. yet
+>383. Ransom Note (easy / done)
 384. yet
 385. yet
 386. yet
