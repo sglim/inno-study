@@ -392,7 +392,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 386. yet
 >387. First Unique Character in a String (easy / done)
 388. yet
-389. yet
+>389. Find the Difference (easy / done)
 390. yet
 391. yet
 392. yet
