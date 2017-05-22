@@ -407,7 +407,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 >401. Binary Watch (easy / done)
 402. yet
 403. yet
-404. yet
+>404. Sum of Left Leaves (easy / done)
 405. yet
 406. yet
 407. yet
