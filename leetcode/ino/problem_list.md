@@ -415,7 +415,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 >409. Longest Palindrome (easy / done)
 410. yet
 411. yet
-412. yet
+>412. Fizz Buzz (easy / done)
 413. yet
 414. yet
 415. yet
