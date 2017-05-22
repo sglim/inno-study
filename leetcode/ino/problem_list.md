@@ -411,8 +411,8 @@ Easy : 140 / Medium : 285 / Hard : 106
 >405. Convert a Number to Hexadecimal (easy / done)
 406. yet
 407. yet
-408. yet
-409. yet
+408. ~~Valid Word Abbreviation (easy / LOCKED)~~
+>409. Longest Palindrome (easy / done)
 410. yet
 411. yet
 412. yet
