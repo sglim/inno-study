@@ -408,7 +408,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 402. yet
 403. yet
 >404. Sum of Left Leaves (easy / done)
-405. yet
+>405. Convert a Number to Hexadecimal (easy / done)
 406. yet
 407. yet
 408. yet
