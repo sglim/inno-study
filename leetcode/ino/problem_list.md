@@ -425,7 +425,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 419. yet
 420. yet
 421. yet
-422. yet
+422. ~~Valid Word Square (easy / LOCKED)~~
 423. yet
 424. yet
 425. yet
@@ -437,7 +437,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 431. yet
 432. yet
 433. yet
-434. yet
+>434. Number of Segments in a String (easy / done)
 435. yet
 436. yet
 437. yet
