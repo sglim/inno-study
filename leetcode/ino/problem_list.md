@@ -440,8 +440,8 @@ Easy : 140 / Medium : 285 / Hard : 106
 >434. Number of Segments in a String (easy / done)
 435. yet
 436. yet
-437. yet
-438. yet
+>437. Path Sum III (easy / done)
+>438. Find All Anagrams in a String (easy / done)
 439. yet
 440. yet
 441. yet
