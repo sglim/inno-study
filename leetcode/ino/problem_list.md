@@ -456,7 +456,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 450. yet
 451. yet
 452. yet
-453. yet
+>453. Minimum Moves to Equal Array Elements (easy / done)
 454. yet
 455. yet
 456. yet
