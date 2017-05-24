@@ -462,6 +462,16 @@ Easy : 140 / Medium : 285 / Hard : 106
 456. yet
 457. yet
 458. yet
+>459. Repeated Substring Pattern (easy / done)
+460. yet
+461. yet
+462. yet
+463. yet
+464. yet
+465. yet
+466. yet
+467. yet
+468. yet
 469. yet
 460. yet
 461. yet
