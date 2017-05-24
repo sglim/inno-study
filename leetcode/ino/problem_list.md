@@ -458,7 +458,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 452. yet
 >453. Minimum Moves to Equal Array Elements (easy / done)
 454. yet
-455. yet
+>455. Assign Cookies (easy / done)
 456. yet
 457. yet
 458. yet
@@ -591,5 +591,12 @@ Easy : 140 / Medium : 285 / Hard : 106
 585. yet
 586. yet
 587. yet
+588. yet
+589. yet
+590. yet
+591. yet
+592. yet
+593. yet
+594. yet
 
 
