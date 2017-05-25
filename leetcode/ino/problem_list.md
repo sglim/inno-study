@@ -505,7 +505,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 489. yet
 490. yet
 491. yet
-492. yet
+>492. Construct the Rectangle (easy / done)
 493. yet
 494. yet
 495. yet
