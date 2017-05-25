@@ -1,5 +1,3 @@
-# time limit fail
-
 class Solution(object):
     def get_new_map(self, houses, heaters):
         i, j, k = 0, 0, 0
@@ -83,6 +81,4 @@ heaters = [11,78,82]
 obj = Solution()
 # print(obj.find_far_btw(a, b, houses))
 print(obj.findRadius(houses, heaters))
-
-
 
