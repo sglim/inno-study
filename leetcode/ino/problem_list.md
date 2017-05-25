@@ -489,7 +489,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 473. yet
 474. yet
 >475. Heaters (easy / done)
-476. yet
+>476. Number Complement (easy / done)
 477. yet
 478. yet
 479. yet
@@ -498,7 +498,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 482. yet
 483. yet
 484. yet
-485. yet
+>485. Max Consecutive Ones (easy / done)
 486. yet
 487. yet
 488. yet
