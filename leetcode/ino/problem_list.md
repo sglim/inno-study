@@ -509,7 +509,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 493. yet
 494. yet
 495. yet
-496. yet
+>496. Next Greater Element (easy / done)
 497. yet
 498. yet
 499. yet
