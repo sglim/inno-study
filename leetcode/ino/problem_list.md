@@ -513,7 +513,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 497. yet
 498. yet
 499. yet
-500. yet
+>500. Keyboard Row (easy / done)
 501. yet
 502. yet
 503. yet
