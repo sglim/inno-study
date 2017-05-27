@@ -18,8 +18,8 @@ Easy : 140 / Medium : 285 / Hard : 106
 12. yet
 13. yet
 14. yet
-15. yet
-16. yet
+>15. 3Sum (medium / done)
+>16. 3Sum Closest (medium / done)
 17. yet
 18. yet
 19. yet
