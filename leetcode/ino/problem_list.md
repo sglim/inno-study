@@ -5,7 +5,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 --------------------------------------
 
 >1. Two Sum (easy / done)
-2. yet
+>2. Add Two Numbers (easy / done)
 3. yet
 4. yet
 5. yet
@@ -608,4 +608,8 @@ Easy : 140 / Medium : 285 / Hard : 106
 592. yet
 593. yet
 594. yet
+595. yet
+596. yet
+597. yet
+598. yet
 
