@@ -10,7 +10,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 4. yet
 5. yet
 6. ZigZag Conversion (medium)
-7. yet
+>7. Reverse Integer (easy / done)
 8. yet
 >9. Palindrome Number (easy / done)
 10. yet
