@@ -4,20 +4,20 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        count = 0
-        s = s.strip(' ')
 
-        if s == '':
-            return count
+    def plus_one(digits):
+        carry = 0
+        for i in range(len(digits) - 1, -1, -1):
+            num = digits[i]
+            s = num + 1 + carry
+            carry = s // 10
+            s %= 10
+            digits[i] = s
 
-        for ch in s[::-1]:
-            if ch == ' ':
-                break
-            else:
-                count += 1
+        if carry:
+            digits.insert(0, carry)
 
-        return  count
-
+        return carry
 
 
 sol = Solution()
