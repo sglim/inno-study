@@ -8,26 +8,28 @@ class Solution(object):
         """
         if x < 0:
             return None
-        if x == 0:
-            return 0
+        if x <= 1:
+            return x
 
         left = 1
-        right = x
+        right = x - 1
 
-        # invariant : answer should be placed in [left, right)
+        # invariant : answer should be placed in [left, right]
         while left <= right:
             mid = left + (right - left) // 2
             mid_sq = mid * mid
 
-            if mid_sq <= x:
+            if mid_sq < x:  # desired index should be larger than mid
                 left = mid + 1
-            else:
+            elif mid_sq > x:  # desired index should be smaller than mid
                 right = mid - 1
-        # at this time, left == right
-        return left
+            else:
+                return mid
+        # at this time, left > right
+        return right
 
 obj = Solution()
-x = 15
+x = 0
 print(obj.mySqrt(x))
 
 
