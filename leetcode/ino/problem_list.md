@@ -73,7 +73,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 >67. Add Binary (easy / done)
 68. yet
 >69. Sqrt(x) (easy / done)
-70. yet
+>70. Climbing Stairs (easy / done)
 71. yet
 72. yet
 73. yet
