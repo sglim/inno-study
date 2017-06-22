@@ -74,7 +74,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 68. yet
 >69. Sqrt(x) (easy / done)
 >70. Climbing Stairs (easy / done)
-71. yet
+>71. Simplify Path (easy / done)
 72. yet
 73. yet
 74. yet
