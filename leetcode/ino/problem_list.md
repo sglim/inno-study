@@ -23,7 +23,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 17. yet
 18. yet
 19. yet
-20. yet
+>20. Valid Parentheses (easy / done)
 >21. Merge Two Sorted Lists (easy / done)
 22. yet
 23. yet
