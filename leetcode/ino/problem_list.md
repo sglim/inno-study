@@ -29,7 +29,7 @@ Easy : 140 / Medium : 285 / Hard : 106
 23. yet
 24. yet
 25. yet
-26. yet
+>26. Remove Duplicates from Sorted Array (easy / done)
 27. yet
 28. yet
 29. yet
